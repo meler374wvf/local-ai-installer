@@ -5,7 +5,6 @@ Platform
 Status
 License: GPL v3
 
-Русская версия
 
 The ultimate one-click installer and manager for running the most powerful open-source AI models on your personal computer. Forget complex setups, dependency hell, Python, and CUDA—AI Nexus Toolkit handles all the heavy lifting for you.
 📝 Description
